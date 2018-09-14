@@ -1,0 +1,4 @@
+﻿  Chapter-5 question1.cpp
+c:\users\owner\source\repos\chapter-5 question1\chapter-5 question1\chapter-5 question1.cpp(14): warning C4101: 'no': unreferenced local variable
+c:\users\owner\source\repos\chapter-5 question1\chapter-5 question1\chapter-5 question1.cpp(14): warning C4101: 'yes': unreferenced local variable
+  Chapter-5 question1.vcxproj -> C:\Users\Owner\source\repos\Chapter-5 question1\Debug\Chapter-5 question1.exe
