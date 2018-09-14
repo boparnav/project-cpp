@@ -1,0 +1,7 @@
+﻿  ch-3 q-1.cpp
+c:\users\navdeep.boparai\source\repos\ch-3 q-1\ch-3 q-1\ch-3 q-1.cpp(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\navdeep.boparai\source\repos\ch-3 q-1\ch-3 q-1\ch-3 q-1.cpp(32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\navdeep.boparai\source\repos\ch-3 q-1\ch-3 q-1\ch-3 q-1.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\navdeep.boparai\source\repos\ch-3 q-1\ch-3 q-1\ch-3 q-1.cpp(11): warning C4101: 'min': unreferenced local variable
+c:\users\navdeep.boparai\source\repos\ch-3 q-1\ch-3 q-1\ch-3 q-1.cpp(11): warning C4101: 'hours': unreferenced local variable
+  ch-3 q-1.vcxproj -> C:\Users\Navdeep.Boparai\source\repos\ch-3 q-1\x64\Debug\ch-3 q-1.exe

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  chapter-2 q-3.cpp
+c:\users\navdeep.boparai\source\repos\chapter-2 q-3\chapter-2 q-3\chapter-2 q-3.cpp(26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  chapter-2 q-3.vcxproj -> C:\Users\Navdeep.Boparai\source\repos\chapter-2 q-3\Debug\chapter-2 q-3.exe

@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  ch-1 q-2.cpp
+c:\users\navdeep.boparai\source\repos\ch-1 q-2\ch-1 q-2\ch-1 q-2.cpp(16): warning C4129: ' ': unrecognized character escape sequence
+c:\users\navdeep.boparai\source\repos\ch-1 q-2\ch-1 q-2\ch-1 q-2.cpp(19): warning C4129: ' ': unrecognized character escape sequence
+c:\users\navdeep.boparai\source\repos\ch-1 q-2\ch-1 q-2\ch-1 q-2.cpp(20): warning C4129: ' ': unrecognized character escape sequence
+c:\users\navdeep.boparai\source\repos\ch-1 q-2\ch-1 q-2\ch-1 q-2.cpp(21): warning C4129: ' ': unrecognized character escape sequence
+c:\users\navdeep.boparai\source\repos\ch-1 q-2\ch-1 q-2\ch-1 q-2.cpp(9): warning C4101: 'i': unreferenced local variable
+  ch-1 q-2.vcxproj -> C:\Users\Navdeep.Boparai\source\repos\ch-1 q-2\Debug\ch-1 q-2.exe
